@@ -1,0 +1,5 @@
+{
+    "MAXNUMBER_WITH_AMOUNT": "Maximum number can be: {{maxnumber}}",
+    "EXAMPLE_ONE": "This {{makeThisBold}} and this {{makeThisBoldToo}} should be wrapped in strong tags.",
+    "EXAMPLE_TWO": "A value was not provided to the pipe, so {{this}} will look like '{{this}}' in the browser."
+}
